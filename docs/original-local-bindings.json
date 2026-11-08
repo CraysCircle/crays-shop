@@ -1,0 +1,26 @@
+{
+  "bindings": [
+    {
+      "path": "public/assets",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/shop-nextjs-20261105-01/public/assets",
+      "tracked": false
+    },
+    {
+      "path": "public/__crays-shop",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/shop-nextjs-20261105-01/public/__crays-shop",
+      "tracked": false
+    },
+    {
+      "path": "public/__crays-account",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/shop-nextjs-20261105-01/public/__crays-account",
+      "tracked": false
+    },
+    {
+      "path": "node_modules",
+      "target": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/shop-nextjs-20261105-01/node_modules",
+      "scope": "Original local alias observed read-only; installed body/lock closure separate"
+    }
+  ],
+  "hostSpecificAliasesAreNotPortableRecoveryInputs": true,
+  "publicSourceBodiesPreservedAtLogicalPaths": true
+}

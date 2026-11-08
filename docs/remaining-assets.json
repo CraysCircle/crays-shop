@@ -1,0 +1,295 @@
+{
+  "scope": "Remaining binary asset paths/bytes in the known original public tree; no content-hash/rights acceptance",
+  "files": [
+    {
+      "bytes": 1618432,
+      "path": "public/assets/offer-donut-coffee.png"
+    },
+    {
+      "bytes": 758603,
+      "path": "public/assets/crays-phone.png"
+    },
+    {
+      "bytes": 2257674,
+      "path": "public/assets/hero-storefront.png"
+    },
+    {
+      "bytes": 1021246,
+      "path": "public/assets/phone-chroma.png"
+    },
+    {
+      "bytes": 1708524,
+      "path": "public/assets/morning-bundle.png"
+    },
+    {
+      "bytes": 1827905,
+      "path": "public/assets/offer-sandwich-drink.png"
+    },
+    {
+      "bytes": 1916715,
+      "path": "public/assets/auto-checkout-store.png"
+    },
+    {
+      "bytes": 1628077,
+      "path": "public/assets/offer-coffee-croissant.png"
+    },
+    {
+      "bytes": 7520,
+      "path": "public/__crays-shop/fonts/bebas-neue-latin-ext-400-normal.woff"
+    },
+    {
+      "bytes": 5428,
+      "path": "public/__crays-shop/fonts/inter-greek-ext-500-normal.woff2"
+    },
+    {
+      "bytes": 10496,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-ext-700-normal.woff2"
+    },
+    {
+      "bytes": 48668,
+      "path": "public/__crays-shop/fonts/inter-latin-ext-600-normal.woff"
+    },
+    {
+      "bytes": 13464,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-ext-600-normal.woff"
+    },
+    {
+      "bytes": 5112,
+      "path": "public/__crays-shop/fonts/inter-vietnamese-500-normal.woff2"
+    },
+    {
+      "bytes": 31284,
+      "path": "public/__crays-shop/fonts/inter-latin-500-normal.woff"
+    },
+    {
+      "bytes": 10484,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-ext-600-normal.woff2"
+    },
+    {
+      "bytes": 36260,
+      "path": "public/__crays-shop/fonts/inter-latin-ext-600-normal.woff2"
+    },
+    {
+      "bytes": 7900,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-500-normal.woff2"
+    },
+    {
+      "bytes": 24272,
+      "path": "public/__crays-shop/fonts/inter-latin-500-normal.woff2"
+    },
+    {
+      "bytes": 7776,
+      "path": "public/__crays-shop/fonts/inter-greek-400-normal.woff2"
+    },
+    {
+      "bytes": 7064,
+      "path": "public/__crays-shop/fonts/inter-greek-ext-400-normal.woff"
+    },
+    {
+      "bytes": 7904,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-700-normal.woff2"
+    },
+    {
+      "bytes": 7972,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-600-normal.woff2"
+    },
+    {
+      "bytes": 5100,
+      "path": "public/__crays-shop/fonts/inter-vietnamese-600-normal.woff2"
+    },
+    {
+      "bytes": 5264,
+      "path": "public/__crays-shop/fonts/inter-greek-ext-400-normal.woff2"
+    },
+    {
+      "bytes": 9940,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-500-normal.woff"
+    },
+    {
+      "bytes": 9980,
+      "path": "public/__crays-shop/fonts/inter-greek-700-normal.woff"
+    },
+    {
+      "bytes": 30696,
+      "path": "public/__crays-shop/fonts/inter-latin-400-normal.woff"
+    },
+    {
+      "bytes": 31260,
+      "path": "public/__crays-shop/fonts/inter-latin-600-normal.woff"
+    },
+    {
+      "bytes": 11180,
+      "path": "public/__crays-shop/fonts/bebas-neue-latin-400-normal.woff"
+    },
+    {
+      "bytes": 9980,
+      "path": "public/__crays-shop/fonts/inter-greek-500-normal.woff"
+    },
+    {
+      "bytes": 5432,
+      "path": "public/__crays-shop/fonts/inter-greek-ext-600-normal.woff2"
+    },
+    {
+      "bytes": 7944,
+      "path": "public/__crays-shop/fonts/inter-greek-600-normal.woff2"
+    },
+    {
+      "bytes": 9780,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-400-normal.woff"
+    },
+    {
+      "bytes": 23664,
+      "path": "public/__crays-shop/fonts/inter-latin-400-normal.woff2"
+    },
+    {
+      "bytes": 48492,
+      "path": "public/__crays-shop/fonts/inter-latin-ext-500-normal.woff"
+    },
+    {
+      "bytes": 10432,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-ext-500-normal.woff2"
+    },
+    {
+      "bytes": 47560,
+      "path": "public/__crays-shop/fonts/inter-latin-ext-400-normal.woff"
+    },
+    {
+      "bytes": 7920,
+      "path": "public/__crays-shop/fonts/inter-greek-700-normal.woff2"
+    },
+    {
+      "bytes": 7920,
+      "path": "public/__crays-shop/fonts/inter-greek-500-normal.woff2"
+    },
+    {
+      "bytes": 7212,
+      "path": "public/__crays-shop/fonts/inter-greek-ext-600-normal.woff"
+    },
+    {
+      "bytes": 6596,
+      "path": "public/__crays-shop/fonts/inter-vietnamese-500-normal.woff"
+    },
+    {
+      "bytes": 6632,
+      "path": "public/__crays-shop/fonts/inter-vietnamese-700-normal.woff"
+    },
+    {
+      "bytes": 7216,
+      "path": "public/__crays-shop/fonts/inter-greek-ext-700-normal.woff"
+    },
+    {
+      "bytes": 31320,
+      "path": "public/__crays-shop/fonts/inter-latin-700-normal.woff"
+    },
+    {
+      "bytes": 35000,
+      "path": "public/__crays-shop/fonts/inter-latin-ext-400-normal.woff2"
+    },
+    {
+      "bytes": 24356,
+      "path": "public/__crays-shop/fonts/inter-latin-700-normal.woff2"
+    },
+    {
+      "bytes": 10032,
+      "path": "public/__crays-shop/fonts/inter-greek-600-normal.woff"
+    },
+    {
+      "bytes": 10232,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-ext-400-normal.woff2"
+    },
+    {
+      "bytes": 24452,
+      "path": "public/__crays-shop/fonts/inter-latin-600-normal.woff2"
+    },
+    {
+      "bytes": 9936,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-600-normal.woff"
+    },
+    {
+      "bytes": 48632,
+      "path": "public/__crays-shop/fonts/inter-latin-ext-700-normal.woff"
+    },
+    {
+      "bytes": 13336,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-ext-400-normal.woff"
+    },
+    {
+      "bytes": 9924,
+      "path": "public/__crays-shop/fonts/inter-greek-400-normal.woff"
+    },
+    {
+      "bytes": 5104,
+      "path": "public/__crays-shop/fonts/inter-vietnamese-700-normal.woff2"
+    },
+    {
+      "bytes": 36244,
+      "path": "public/__crays-shop/fonts/inter-latin-ext-700-normal.woff2"
+    },
+    {
+      "bytes": 8928,
+      "path": "public/__crays-shop/fonts/bebas-neue-latin-ext-400-normal.woff2"
+    },
+    {
+      "bytes": 36024,
+      "path": "public/__crays-shop/fonts/inter-latin-ext-500-normal.woff2"
+    },
+    {
+      "bytes": 13408,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-ext-700-normal.woff"
+    },
+    {
+      "bytes": 7192,
+      "path": "public/__crays-shop/fonts/inter-greek-ext-500-normal.woff"
+    },
+    {
+      "bytes": 4972,
+      "path": "public/__crays-shop/fonts/inter-vietnamese-400-normal.woff2"
+    },
+    {
+      "bytes": 6640,
+      "path": "public/__crays-shop/fonts/inter-vietnamese-600-normal.woff"
+    },
+    {
+      "bytes": 5444,
+      "path": "public/__crays-shop/fonts/inter-greek-ext-700-normal.woff2"
+    },
+    {
+      "bytes": 13768,
+      "path": "public/__crays-shop/fonts/bebas-neue-latin-400-normal.woff2"
+    },
+    {
+      "bytes": 6500,
+      "path": "public/__crays-shop/fonts/inter-vietnamese-400-normal.woff"
+    },
+    {
+      "bytes": 13452,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-ext-500-normal.woff"
+    },
+    {
+      "bytes": 9912,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-700-normal.woff"
+    },
+    {
+      "bytes": 7712,
+      "path": "public/__crays-shop/fonts/inter-cyrillic-400-normal.woff2"
+    },
+    {
+      "bytes": 130237,
+      "path": "public/__crays-account/v1/forest-city-marina.jpg"
+    },
+    {
+      "bytes": 23632,
+      "path": "public/__crays-account/v1/fonts/avenir-medium.woff2"
+    },
+    {
+      "bytes": 23424,
+      "path": "public/__crays-account/v1/fonts/avenir-book.woff2"
+    },
+    {
+      "bytes": 34040,
+      "path": "public/__crays-account/v1/fonts/avenir-heavy.woff2"
+    }
+  ],
+  "allBodiesInThisRepository": false,
+  "fullRecoveryAndLicenseClosure": false
+}
