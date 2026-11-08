@@ -1,0 +1,25 @@
+{
+  "atUTC": "2026-11-05T16:21:32.551380+00:00",
+  "packages": [
+    {
+      "name": "@fontsource/inter",
+      "version": "5.3.0",
+      "tarBytes": 4050993,
+      "tarSha512": "4687ccca56668e52447c42d778d1c558145c4acef9ac653fe9b5764b68df9efbffdeb3d73c67b42e05094e495c1d9f6533839998054585c24f9c009f6fdd40de",
+      "integrityMatched": true,
+      "regularFiles": 420,
+      "bytes": 4268538,
+      "lifecycleExecuted": false
+    },
+    {
+      "name": "@fontsource/bebas-neue",
+      "version": "5.3.0",
+      "tarBytes": 47974,
+      "tarSha512": "9c2c4c11bf4183db233569bd4c83acbc728330b4547c464f5a92e062eea6f4a6af65955203f5a81f3239c113b0a80f9e370122fcf34101c0790a8ec70374b40b",
+      "integrityMatched": true,
+      "regularFiles": 19,
+      "bytes": 60482,
+      "lifecycleExecuted": false
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.next/
+node_modules
+public/
+.env*
+*.private.json
+*.log
+*.tsbuildinfo

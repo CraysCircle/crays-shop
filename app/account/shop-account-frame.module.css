@@ -1,0 +1,18 @@
+/* Retain Store's existing utility bar/header and isolate the shared entry's
+   typography and fixed-header clearance from the storefront theme. */
+.frame main { letter-spacing: normal; }
+.frame main h1, .frame main h2 { font-family: inherit; }
+.frame main svg { display: block; }
+.frame main > section {
+  height: calc(100svh - 67px);
+  padding-top: clamp(30px, 4vw, 54px);
+}
+@media (max-width: 1199px) {
+  .frame main > section { padding-top: 28px; }
+}
+@media (max-width: 980px) {
+  .frame main > section { height: auto; min-height: calc(100svh - 132px); padding-top: 24px; }
+}
+@media (max-width: 680px) {
+  .frame main > section { padding-top: 16px; }
+}

@@ -1,0 +1,43 @@
+{
+  "reviewer": "aws_discovery_rights_review",
+  "approved": true,
+  "scope": "Exact two public lockfile-pinned font tarball downloads and data-only private extraction into own dependencies directory. No generic npm installation.",
+  "sourceLockfile": "/srv/crays/worktrees/system-spec-019fe24c/work/crays-store-frontend/package-lock.json",
+  "sourceLockfileSHA256": "20fa44ef273ce5b3f6cf45841eb3de11ff148b4d68e94cf68f412bc7eb71e0d1",
+  "pins": {
+    "@fontsource/inter": {
+      "version": "5.3.0",
+      "resolved": "https://registry.npmjs.org/@fontsource/inter/-/inter-5.3.0.tgz",
+      "integrity": "sha512-RofMylZmjlJEfELXeNHFWBRcSs75rGU/6bV2S2jfnvv/3rPXPGe0LgUJTklcHZ9lM4OZmAVFhcJPnACfb91A3g==",
+      "license": "OFL-1.1",
+      "funding": {
+        "url": "https://github.com/sponsors/ayuhito"
+      }
+    },
+    "@fontsource/bebas-neue": {
+      "version": "5.3.0",
+      "resolved": "https://registry.npmjs.org/@fontsource/bebas-neue/-/bebas-neue-5.3.0.tgz",
+      "integrity": "sha512-nCxMEb9Bg9sjNWm9TIOsvHKDMLRUfEZPWpLgYu6m9KavZZVSA/WoHzI5wROwqA+eNwEi/PNBAcB5Co7HA3S0Cw==",
+      "license": "OFL-1.1",
+      "funding": {
+        "url": "https://github.com/sponsors/ayuhito"
+      }
+    }
+  },
+  "authorizationConstraints": [
+    "Download only exact two lockfile resolved HTTPS npm URLs, bounded transfer and archive/member sizes, retain full tarball SHA512 equality with exact lockfile integrity before extraction.",
+    "Use fresh own dependency destinations under output/aws-inventory-20261104/shop-nextjs-20261105-01/dependencies, never mutate original sources or shared node_modules.",
+    "Validate entire archive entry list: fixed package/ prefix, canonical relative paths, reject absolute/dotdot/backslash/NUL/duplicate names and symlinks/hardlinks/devices; copy regular bodies manually with exclusive/no-follow writes. Directory entries may be validated and skipped.",
+    "No npm install, package manager hooks, lifecycle scripts, arbitrary executable/package code execution; package version/name metadata must equal expected package and5.3.0.",
+    "Preserve OFL-1.1 license and relevant font copyright/license files with own artifact.",
+    "Phosphor2.1.10 and Next/React existing dependencies are read-only reuse only; no package upgrades or shared dependency rewrites."
+  ],
+  "reason": "Both original lockfile v3 entries independently read: exact5.3.0 versions, registry.npmjs.org HTTPS resolved tarballs, structurally valid complete64-byte SHA512 integrity and OFL-1.1 metadata. Narrow data-only extraction preserves intended original font assets without lifecycle authority.",
+  "limits": [
+    "This reviews the exact pinned approach, not an unseen extractor implementation or actual downloaded bytes. Producer must record actual integrity/path/type checks and review any deviation.",
+    "No font rendering, visual parity, browser/customer acceptance, IAM, provider, AWS deployment or production approval follows."
+  ],
+  "actualDownloadOrInstallationPerformedByReviewer": false,
+  "awsCalls": 0,
+  "productionApproved": false
+}
